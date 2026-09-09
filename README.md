@@ -156,7 +156,26 @@ ClinicManagementSystem
 
 The main purpose of this project is to provide a simple and organized computerized system for managing clinic records and daily operations while reducing manual record keeping.
 
- **Develope**r
+## 📸 Screenshots 
+ 
+### Dashboard 
+![Dashboard](screenshots/Dashboard.png) 
+ 
+### Patient Management 
+![Patient Management](screenshots/Patient.png) 
+ 
+### Product Management 
+![Product Management](screenshots/Product.png) 
+ 
+### Token Management 
+![Token Management](screenshots/Token.png) 
+ 
+### Billing 
+![Billing](screenshots/Bill.png) 
+
+
+
+ **Developer**
 
 "Nayyab Malik"
 
