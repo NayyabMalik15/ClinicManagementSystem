@@ -173,7 +173,7 @@ The main purpose of this project is to provide a simple and organized computeriz
 ### Billing 
 ![Billing](screenshots/Bill.png) 
 
-## 🗄️ Database Setup
+##  Database Setup
 
 This project uses **Microsoft SQL Server** for storing and managing clinic data.
 
@@ -185,6 +185,24 @@ This project uses **Microsoft SQL Server** for storing and managing clinic data.
 4. Open the project in **Visual Studio**.
 5. Update the SQL Server connection string in the project according to your SQL Server instance.
 6. Build and run the application.
+
+   ##  How to Run
+
+1. Clone or download this repository.
+2. Open the project in **Visual Studio**.
+3. Make sure **SQL Server** is installed and running.
+4. Create and configure the project database in **SQL Server Management Studio (SSMS)**.
+5. Update the database connection string according to your SQL Server instance.
+6. Restore or build the project in Visual Studio.
+7. Press **Start** or **F5** to run the Clinic Management System.
+
+## 💻 System Requirements
+
+- Windows Operating System
+- Visual Studio
+- .NET
+- Microsoft SQL Server
+- SQL Server Management Studio (SSMS)
 
  **Developer**
 
