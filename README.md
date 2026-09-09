@@ -1,4 +1,8 @@
  **Clinic Management System**
+![C#](https://img.shields.io/badge/C%23-Windows%20Forms-blue)
+![SQL Server](https://img.shields.io/badge/Database-SQL%20Server-red)
+![Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-purple)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 
 A desktop-based Clinic Management System developed using C# Windows Forms and SQL Server. The system is designed to manage daily clinic operations including patients, doctors, staff, treatments, tokens, medicines, products, stock, billing, payments, and company records.
 
